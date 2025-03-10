@@ -70,7 +70,7 @@ README.md          <- The top-level README for developers.
     │
     └── d07_visualisation <- Scripts for visualizing data and results (plots, charts).
         └── visualise_patient_journey.py <- Example script for creating patient journey visualizations.
-
+```
 
 2. Python como erramienta de **analisis de datos**.
 
